@@ -1,0 +1,29 @@
+body {
+    background-color: #100720;
+    text-align: center;
+}
+
+h1 {
+    color: #00FFD1;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 6rem;
+    margin-top: 7rem;
+}
+
+h3 {
+    color: #00FFD1;
+    display: inline-block;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    font-size: 30px;
+    margin: 2rem 6.5rem 1rem;
+}
+
+img {
+    margin: auto 50px;
+}
+
+p {
+    color: #FFFF00;
+    margin: 100px auto;
+}
